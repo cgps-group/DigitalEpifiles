@@ -1,0 +1,4 @@
+filename,displayname,latitude,longitude,day,month,year,sample type,source,city,country
+Test1.fasta,Test1,51.7520,-1.2577,12,12,2019,Water,Environmental,Oxford,UK
+Test2.fasta,Test2,51.7520,-1.2577,15,12,2019,Water,Environmental,Oxford,UK
+Test3.fasta,Test3,51.7520,-1.2577,20,12,2019,Water,Environmental,Oxford,UK
