@@ -1,4 +1,4 @@
-NHS_number,travel_before_illness,travel_destination,travel_start,travel_end,exposure_to_cholera,travel_outside_uk,cholera_vaccine,clams,mussels,oysters,scallops,shrimp,lobster,crab,fish,other shellfish,where_was_food_consumed,Dining_partner_consume_same_food,dining_partner_food,partner_sick,name_sick_patner,exposure_to_body_of_water,which_body_of_water
+patient_number,travel_before_illness,travel_destination,travel_start,travel_end,exposure_to_cholera,travel_outside_uk,cholera_vaccine,clams,mussels,oysters,scallops,shrimp,lobster,crab,fish,other shellfish,where_was_food_consumed,Dining_partner_consume_same_food,dining_partner_food,partner_sick,name_sick_patner,exposure_to_body_of_water,which_body_of_water
 577 021 0754,yes,"Whitstable, Kent",26/04/2024,03/05/2024,no,no,no,no,no,yes,no,no,yes,no,no,no,"The Seaside Bistro, Whitstable",yes,lobster,no,,yes,Sea in Whitstable
 263 288 2709,no,,,,no,no,no,no,yes,yes,no,yes,no,no,no,no,"Harbour Delight, Whitstable",yes,fish,no,,no,
 435 854 2739,yes,"Whitstable, Kent",13/05/2024,13/05/2024,no,no,no,no,no,yes,yes,no,no,no,no,no,"Ocean's Pearl, Whitstable",no,,yes,Mark Brown,yes,River Stour in Canterbury
