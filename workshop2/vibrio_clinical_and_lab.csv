@@ -1,0 +1,9 @@
+name,surname,city,county,sex,date_of_birth,NHS_number,date_illness_began,duration_illness,admitted_to_hosptial,admission_date,discharge_date,vomiting/nausea,diarrhea,if_yes_severity,visible_blood_in_stool,abdominal_cramps,fever,muscle_pain,septic_shock,cellulitis,bullae,sequelae,Sample_ID,Pathogen,Serology ,Azithromycin	,Ampicillin,Ceftazidime	,Ceftriaxone,Cefepime,Levofloxacin,trimethoprim_sulfamethoxazole,Tetracycline
+John,Jones,Brighton,East Sussex,M,15/01/1979,577 021 0754,04/05/2024,10,yes,05/05/2024,08/05/2024,vomiting,yes,Severe,,,,,,,,,BNH-4572,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
+Emily,Baker,Whitstable,Kent,F,22/02/1989,263 288 2709,10/05/2024,9,no,,,,yes,Severe,,yes,,,,,,,WSH-9834,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
+Sarah,Brown,Canterbury,Kent,F,03/05/1995,435 854 2739,17/05/2024,12,yes,18/05/2024,20/05/2024,nausea,yes,Acute watery,,,yes,,,,,,CTH-2107,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
+Mark,Brown,Canterbury,Kent,M,12/03/1992,589 730 6253,17/05/2024,7,no,,,vomiting,yes,Non-severe,,yes,,,,,,,CTH-3258,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
+Alice,Taylor,Exeter,Devon,F,08/09/1981,938 463 6287,19/05/2024,10,yes,20/05/2024,22/05/2024,,yes,Non-severe,,yes,,,,,,,MDH-7645,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
+Tom,White,Eastbourne,East Sussex,M,26/11/1985,554 215 0234,22/05/2024,11,no,,,,yes,Severe,,,,,,,,,EBH-4890,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
+Lucy,Davies,Hastings,East Sussex,F,30/06/1997,457 232 6195,24/05/2024,8,no,,,vomiting,yes,Non-severe,,,,,,,,,HTH-1423,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
+Paul,Williams,Guildford,Surrey,M,17/04/1973,227 124 1510,26/05/2024,9,yes,27/05/2024,31/05/2024,,yes,Severe,,,,,,,,,GFH-6791,Vibrio cholerae,O75,S,R,R,R,R,S,R,S
