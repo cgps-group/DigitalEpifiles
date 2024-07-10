@@ -1,0 +1,51 @@
+sample_id,sex,severity_of_illness,age_group,occupation,residential_status,vaccination_status,county,postcode,DATE,strain,virulence_factor,latitude,longitude,type,new_date
+ERR1853040,M,Mild illness,06-20,Student,communal living,fully vaccinated,Oxfordshire,OX13,02-Jun-13,st4,B,51.6247,-1.3214,postcode,2013-06-02
+ERR1853046,F,Mild illness,31-40,Office worker,communal living,single dose,Oxfordshire,OX13,28-Jul-13,st4,B,51.6247,-1.3214,postcode,2013-07-28
+ERR1853042,M,Death,81 and over,Retired,nursing home,fully vaccinated,Oxfordshire,OX3,06-Jun-13,st4,B,51.7866,-1.2187,postcode,2013-06-06
+ERR1853041,F,Critical illness,81 and over,Retired,nursing home,fully vaccinated,Oxfordshire,OX3,03-Jun-13,st4,B,51.7866,-1.2187,postcode,2013-06-03
+ERR1853043,F,Moderate illness,71-80,Retired,nursing home,fully vaccinated,Oxfordshire,OX3,06-Jun-13,st4,B,51.7866,-1.2187,postcode,2013-06-06
+ERR1852929,F,Critical illness,81 and over,Retired,nursing home,not vaccinated,Oxfordshire,OX3,22-May-13,st4,B,51.7866,-1.2187,postcode,2013-05-22
+ERR1853039,M,Death,81 and over,Retired,nursing home,fully vaccinated,Oxfordshire,OX3,30-May-13,st4,B,51.7866,-1.2187,postcode,2013-05-30
+ERR1853038,F,Moderate illness,71-80,Retired,private home,fully vaccinated,Oxfordshire,OX3,02-Jun-13,st4,B,51.7866,-1.2187,postcode,2013-06-02
+ERR1852928,M,Critical illness,06-20,Nursing home worker,communal living,not vaccinated,Oxfordshire,OX26,21-May-13,st4,B,51.9,-1.1536,postcode,2013-05-21
+ERR1852927,M,Mild illness,31-40,Nurse,private_home,fully vaccinated,Oxfordshire,OX14,19-May-13,st4,B,51.6486,-1.256,postcode,2013-05-19
+ERR1852924,M,Moderate illness,05 and  under,N/A,private_home,single dose,Oxfordshire,OX1,03-May-13,st4,B,51.7153,-1.2472,postcode,2013-05-03
+ERR1852923,F,Moderate illness,05 and  under,N/A,private_home,fully vaccinated,Oxfordshire,OX14,03-May-13,st4,B,51.6486,-1.256,postcode,2013-05-03
+ERR1852922,M,Critical illness,06-20,N/A,private_home,not vaccinated,Oxfordshire,OX13,30-Apr-13,st4,B,51.6247,-1.3214,postcode,2013-04-30
+ERR1852926,M,Moderate illness,05 and  under,N/A,private_home,not vaccinated,Oxfordshire,OX13,12-May-13,st4,B,51.6247,-1.3214,postcode,2013-05-12
+ERR1852925,M,Mild illness,05 and  under,N/A,private_home,fully vaccinated,Oxfordshire,OX14,11-May-13,st4,B,51.6486,-1.256,postcode,2013-05-11
+ERR1852865,M,Mild illness,71-80,Retired,communal living,fully vaccinated,Oxfordshire,OX28,05-Aug-13,st1,A,51.7836,-1.4854,postcode,2013-08-05
+ERR1852863,F,Mild illness,05 and  under,Retired,private home,not vaccinated,Oxfordshire,OX3,04-Aug-13,st1,A,51.7866,-1.2187,postcode,2013-08-04
+ERR1852872,M,Moderate illness,71-80,Retired,private home,single dose,Oxfordshire,OX4,10-Jan-13,st3,A,51.7116,-1.2287,postcode,2013-01-10
+SRR8306306,F,Mild illness,81 and over,Nurse,communal living,single dose,Oxfordshire,OX13,21-Apr-13,st1,A,51.6247,-1.3214,postcode,2013-04-21
+ERR1852879,M,Mild illness,05 and  under,Retired,private home,single dose,Oxfordshire,OX5,08-Mar-13,st1,A,51.8545,-1.2721,postcode,2013-03-08
+ERR1852788,F,Death,81 and over,Student,communal living,fully vaccinated,Oxfordshire,OX28,13-Dec-12,st3,A,51.7836,-1.4854,postcode,2012-12-13
+ERR1852774,M,Moderate illness,81 and over,Factory worker,private home,single dose,Oxfordshire,OX3,14-Feb-13,st3,A,51.7866,-1.2187,postcode,2013-02-14
+SRR1561291,M,Critical illness,05 and  under,Retired,private home,fully vaccinated,Oxfordshire,OX3,23-Jan-13,st2,A,51.7866,-1.2187,postcode,2013-01-23
+SRR1561292,M,Critical illness,05 and  under,Retired,private home,not vaccinated,Oxfordshire,OX13,23-Jan-13,st2,A,51.6247,-1.3214,postcode,2013-01-23
+ERR2397418,M,Moderate illness,06-20,Office worker,no fixed address,not vaccinated,Oxfordshire,OX13,02-Jan-13,st3,A,51.6247,-1.3214,postcode,2013-01-02
+ERR3712769,F,Critical illness,81 and over,Factory worker,private home,not vaccinated,Oxfordshire,OX4,13-Dec-12,st2,A,51.7116,-1.2287,postcode,2012-12-13
+SRR1561289,F,Moderate illness,05 and  under,Retired,private home,single dose,Oxfordshire,OX4,16-Jun-12,st1,A,51.7116,-1.2287,postcode,2012-06-16
+SRR1561287,M,Critical illness,05 and  under,Retired,private home,fully vaccinated,Oxfordshire,OX26,25-Aug-13,st1,A,51.9,-1.1536,postcode,2013-08-25
+ERR1852856,F,Mild illness,05 and  under,Retired,private home,single dose,Oxfordshire,OX26,08-May-13,st1,A,51.9,-1.1536,postcode,2013-05-08
+SRR1561275,M,Moderate illness,05 and  under,Retired,private home,not vaccinated,Oxfordshire,OX5,01-Mar-13,st2,A,51.8545,-1.2721,postcode,2013-03-01
+ERR1853110,F,Moderate illness,81 and over,Factory worker,private home,fully vaccinated,Oxfordshire,OX14,26-May-13,st2,A,51.6486,-1.256,postcode,2013-05-26
+ERR1415784,F,Moderate illness,81 and over,Nursing home worker,prison,single dose,Oxfordshire,OX26,15-Jan-13,st2,A,51.9,-1.1536,postcode,2013-01-15
+ERR1415802,M,Mild illness,81 and over,Student,private home,single dose,Oxfordshire,OX5,28-Jan-13,st1,A,51.8545,-1.2721,postcode,2013-01-28
+ERR1514925,M,Mild illness,71-80,Retired,prison,not vaccinated,Oxfordshire,OX3,18-Feb-13,st1,A,51.7866,-1.2187,postcode,2013-02-18
+ERR1415819,F,Critical illness,81 and over,Office worker,communal living,fully vaccinated,Oxfordshire,OX4,27-May-13,st2,A,51.7116,-1.2287,postcode,2013-05-27
+ERR1415814,F,Mild illness,71-80,Retired,no fixed address,single dose,Oxfordshire,OX28,18-Apr-13,st2,A,51.7836,-1.4854,postcode,2013-04-18
+ERR1514926,F,Moderate illness,81 and over,Nurse,private home,single dose,Oxfordshire,OX28,20-Dec-12,st2,A,51.7836,-1.4854,postcode,2012-12-20
+ERR1415774,M,Moderate illness,81 and over,Nursing home worker,communal living,not vaccinated,Oxfordshire,OX3,26-Mar-13,st1,A,51.7866,-1.2187,postcode,2013-03-26
+ERR1415778,F,Moderate illness,05 and  under,Retired,private home,single dose,Oxfordshire,OX4,21-May-13,st2,A,51.7116,-1.2287,postcode,2013-05-21
+ERR1415798,F,Mild illness,06-20,Nurse,prison,single dose,Oxfordshire,OX28,06-Jan-13,st2,A,51.7836,-1.4854,postcode,2013-01-06
+ERR1334632,F,Moderate illness,06-20,Nurse,prison,fully vaccinated,Oxfordshire,OX5,03-Jul-13,st2,A,51.8545,-1.2721,postcode,2013-07-03
+ERR1415756,M,Moderate illness,71-80,Retired,private home,single dose,Oxfordshire,OX26,16-Jan-13,st3,A,51.9,-1.1536,postcode,2013-01-16
+ERR1334504,F,Critical illness,05 and  under,Retired,private home,single dose,Oxfordshire,OX28,21-Jan-13,st2,A,51.7836,-1.4854,postcode,2013-01-21
+SRR7049934,F,Moderate illness,05 and  under,Retired,private home,not vaccinated,Oxfordshire,OX28,26-Nov-12,st2,A,51.7836,-1.4854,postcode,2012-11-26
+ERR1374901,F,Death,71-80,Retired,private home,not vaccinated,Oxfordshire,OX26,12-Apr-13,st3,A,51.9,-1.1536,postcode,2013-04-12
+ERR1415762,F,Moderate illness,71-80,Retired,no fixed address,single dose,Oxfordshire,OX5,18-Jan-13,st2,A,51.8545,-1.2721,postcode,2013-01-18
+ERR1415779,M,Critical illness,05 and  under,Retired,private home,not vaccinated,Oxfordshire,OX13,22-May-13,st3,A,51.6247,-1.3214,postcode,2013-05-22
+ERR1415761,F,Moderate illness,31-40,Factory worker,private home,single dose,Oxfordshire,OX13,24-Jan-13,st1,A,51.6247,-1.3214,postcode,2013-01-24
+ERR1374903,M,Death,81 and over,Office worker,prison,single dose,Oxfordshire,OX14,26-Apr-13,st3,A,51.6486,-1.256,postcode,2013-04-26
+ERR3713089,M,Mild illness,05 and  under,Retired,private home,fully vaccinated,Oxfordshire,OX4,24-Mar-13,st1,A,51.7116,-1.2287,postcode,2013-03-24
